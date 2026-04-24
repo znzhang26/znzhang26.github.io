@@ -3,7 +3,7 @@ title: "JetUnit: Rendering Diverse Force Feedback in Virtual Reality Using Water
 description: "UIST (2024)"
 pubDate: "August 01 2024"
 heroImage: "/project_2024_jetunit_teaser.jpg"
-badge: "New"
+
 ---
 
 <div class="py-2">
